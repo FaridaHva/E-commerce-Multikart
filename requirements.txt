@@ -18,7 +18,7 @@ cryptography==37.0.4
 dateparser==1.1.1
 defusedxml==0.7.1
 Deprecated==1.2.13
-Django==4.1
+Django==4.1.10
 django-4-jet==1.0.9
 django-cors-headers==3.13.0
 django-logging-middleware==0.1.2
